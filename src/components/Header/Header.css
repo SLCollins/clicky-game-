@@ -1,0 +1,17 @@
+.header {
+    font-family: 'Coda Caption', sans-serif;
+    width: 100%;
+    font-size: 2rem;
+    color: red;
+    margin-bottom: 10px;
+  }
+  
+  .title {
+    float: left;
+    font-family: 'Coda Caption', sans-serif;
+  }
+  
+  .scores {
+    float: right;
+    font-family: 'Coda Caption', sans-serif;
+  }

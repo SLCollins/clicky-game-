@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Space Ghost",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41cAChFSwqL.jpg",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Zorak",
+      "image": "https://i.ytimg.com/vi/H-P6EolKb90/hqdefault.jpg",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Moltar",
+      "image": "https://f4.bcbits.com/img/0009104656_20.jpg",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Brak",
+      "image": "https://i.ytimg.com/vi/xQ3sB9yTgco/maxresdefault.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Harvey Birdman, Attorney at Law",
+      "image": "https://static.giantbomb.com/uploads/scale_small/0/346/195834-harvey.jpg",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Black Widow",
+      "image": "https://vignette.wikia.nocookie.net/villains/images/2/25/Black_widow.jpg/revision/latest?cb=20140601004539",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Tansit",
+      "image": "http://www.baronvonass.com/tansit.gif",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Lokar",
+      "image": "https://i.ytimg.com/vi/NhFWt58ndW4/hqdefault.jpg",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Metallus",
+      "image": "https://vignette.wikia.nocookie.net/spaceghost/images/a/ac/Metallus.jpg/revision/latest/scale-to-width-down/231?cb=20150509231237",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Jan",
+      "image": "https://vignette.wikia.nocookie.net/headhuntersholosuite/images/5/54/Jan_%28Space_Ghost%29.jpg/revision/latest?cb=20100918050123",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Jace",
+      "image": "https://www.writeups.org/wp-content/uploads/Space-Ghost-cartoon-s.jpg",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Blip",
+      "image": "https://www.writeups.org/wp-content/uploads/Space-Ghost-cartoon-t.jpg",
+      "count": 0
+    }
+  ]
